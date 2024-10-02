@@ -1,0 +1,15 @@
+# output directories
+[oO]ut
+[oO]utput
+[bB]uild
+
+# cmake files and directories
+CMakeFiles
+CMakeCache
+cmake_install.cmake
+
+# visual studio directories and files
+.vs
+.vcxproj
+.vcxproj.user
+.vcxproj.filters

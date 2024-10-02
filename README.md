@@ -1,0 +1,1 @@
+pmtyenginegl is a fairly simple game engine written in c++ using the opengl api for beginners to learn game engine development
